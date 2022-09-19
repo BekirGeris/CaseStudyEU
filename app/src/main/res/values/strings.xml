@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CaseStudyEU</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello home fragment</string>
+    <string name="sort">Sırala</string>
+    <string name="filter">Filtrele</string>
 </resources>
